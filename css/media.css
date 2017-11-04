@@ -1,0 +1,75 @@
+@media (max-width: 1199px) {
+  .section-lvl-1-main-page header .side {
+    padding: 0 30px; } }
+@media (max-width: 991px) {
+  .section-lvl-1-main-page header {
+    margin-bottom: 40px; }
+
+  .section-lvl-1-main-page .main-baner-wrapp .head-baner {
+    font-size: 32px;
+    margin-bottom: 30px; }
+
+  .section-lvl-1-main-page header .side {
+    padding: 0 15px; }
+
+  .section-lvl-1-main-page header .left-side h4 {
+    font-size: 19px;
+    padding: 12px 0 2px 55px; }
+
+  .section-lvl-1-main-page header .mid-side {
+    width: 215px;
+    padding: 15px; }
+
+  .section-lvl-1-main-page header .mid-side p {
+    font-size: 16px; }
+
+  .section-lvl-1-main-page header .right-side p {
+    font-size: 15px; }
+
+  .section-lvl-1-main-page header .right-side p span:before {
+    top: 5px; }
+
+  .section-lvl-1-main-page .main-baner-wrapp .sing-up-wr .item-sing-up span {
+    font-size: 10px; } }
+@media (max-width: 767px) {
+  .section-lvl-1-main-page header {
+    display: block; }
+
+  .section-lvl-1-main-page header .side {
+    width: 100%;
+    padding: 15px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+
+  .section-lvl-1-main-page header .mid-side {
+    width: 100%; }
+
+  .section-lvl-1-main-page header {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap; }
+
+  .section-lvl-1-main-page header .mid-side {
+    text-align: center; }
+
+  .section-lvl-1-main-page .main-baner-wrapp .sing-up-wr {
+    display: block; }
+
+  .section-lvl-1-main-page .main-baner-wrapp .sing-up-wr .item-sing-up {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 10px; }
+
+  .section-lvl-1-main-page .main-baner-wrapp .sing-up-wr .item-sing-up span {
+    letter-spacing: 2px; }
+
+  .section-lvl-1-main-page .main-baner-wrapp .sing-up-wr .item-sing-up span {
+    background-position: center left 14px; }
+
+  .section-lvl-1-main-page .main-baner-wrapp .sing-up-wr .item-sing-up span.face-butt {
+    background-position: center left 23px; } }
+
+/*# sourceMappingURL=media.css.map */
